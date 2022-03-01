@@ -65,7 +65,7 @@ const displayDetails = details => {
 
     const div = document.createElement("div");
     div.innerHTML = `
-        <div class="card mx-auto" style="width: 28rem;">
+        <div class="card mx-auto" style="width: 21rem;">
                 <img src="${details.image}" class="card-img-top h-25" alt="..."> 
             <div class="card-body">
                 <h5 class="card-title">Name: ${details.name}</h5>
