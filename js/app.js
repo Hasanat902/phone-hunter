@@ -1,1 +1,4 @@
-console.log("connected");
+const loadPhones = () => {
+    const searchText = document.getElementById("input-field").value;
+    
+}
